@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daniyazafar&label=Profile%20views&color=0e75b6&style=flat" alt="daniyazafar" /> </p>
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript,React, Express and Nodejs**
+- 🌱 I’m currently learning **HTML, CSS, JavaScript, React, Express and Nodejs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/daniyazafar](https://github.com/daniyazafar)
 
